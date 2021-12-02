@@ -1,3 +1,5 @@
+// Stock Market App according to Joh Elder Codemy.com
+
 const express = require('express');
 const app = express();
 const exphbs = require('express-handlebars');
